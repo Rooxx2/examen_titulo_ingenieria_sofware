@@ -2,4 +2,4 @@
 Examen
 "database host": "localhost"
 database port":3306
-"timeout":30
+"timeout":60
